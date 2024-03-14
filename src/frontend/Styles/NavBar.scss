@@ -1,0 +1,22 @@
+.inactive {
+  width: 15%;
+
+  align-items: center;
+}
+.active {
+  background-color: #aca5a55e;
+  width: 15%;
+  color: black;
+  align-items: center;
+}
+
+.header {
+  -webkit-text-stroke-width: 0.2px;
+  -webkit-text-stroke-color: #00808091;
+  letter-spacing: 0.2rem;
+}
+
+.emanTitle {
+  font-family: "Grape Nuts", cursive;
+  font-size: 3rem;
+}
